@@ -5,7 +5,7 @@ Incluye las operaciones de crear, leer, actualizar y eliminar contactos.
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - Listado de contactos
 - Crear nuevo contacto
@@ -19,7 +19,7 @@ Incluye las operaciones de crear, leer, actualizar y eliminar contactos.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - PHP 7.4+ / 8+
 - MySQL / MariaDB
@@ -29,7 +29,7 @@ Incluye las operaciones de crear, leer, actualizar y eliminar contactos.
 
 ---
 
-## 🗂️ Estructura de la base de datos
+##  Estructura de la base de datos
 
 El archivo `contacts.sql` contiene:
 
@@ -48,7 +48,7 @@ Campos:
 
 ---
 
-## 🔐 Conexión a la base de datos
+##  Conexión a la base de datos
 
 Por seguridad **no se sube el archivo real `db.php`**.
 
@@ -60,15 +60,17 @@ El profesor debe copiar este archivo como `db.php` y colocar sus propios datos d
 
 ---
 
-## 🌐 Sitio publicado
+##  Sitio publicado
 
 El CRUD está funcionando en:
 
-👉 **http://contactos-crud-php.unaux.com/**
+ **http://contactos-crud-php.unaux.com/**
 
 ---
 
-## 👨‍💻 Autor
+##  integrantes
 
-Equipo de desarrollo — proyecto escolar.
+Darinel Roblero Trujillo
+Maria Fernanda Estrada Gutierrez
+Moises Cruz Damian
 
