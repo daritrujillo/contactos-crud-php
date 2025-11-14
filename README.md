@@ -48,16 +48,6 @@ Campos:
 
 ---
 
-##  Conexión a la base de datos
-
-Por seguridad **no se sube el archivo real `db.php`**.
-
-En su lugar se incluye:
-
-- `config/db.example.php`
-
-El profesor debe copiar este archivo como `db.php` y colocar sus propios datos de conexión.
-
 ---
 
 ##  Sitio publicado
